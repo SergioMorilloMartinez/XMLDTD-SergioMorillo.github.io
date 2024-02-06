@@ -3,6 +3,7 @@
 <tv>
 <channel id="Antena3.TV">
 <display-name>Antena3.TV</display-name>
+</channel>
 <programme channel="Antena3.TV" start="20240116075500 +0000" stop="20240116122000 +0000">
 <title>Espejo Público: Episodio 4178</title>
 <desc>Magacín matinal presentado por Susana Griso cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos.</desc>
@@ -111,5 +112,4 @@
 <category>Entretenimiento</category>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1531672"/>
 </programme>
-</channel>
 </tv>
